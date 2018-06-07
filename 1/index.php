@@ -1,5 +1,4 @@
 
-<?php error_reporting(0);?>
 <!doctype html>
 <html>
 <head>
@@ -275,79 +274,6 @@
   <div class="wrapper">
 	  <div class="main">
 <?php $licznik_stron = 0;?>
-<?php
-      $namedaypracowniktygodnia = date("D");
-      if ($namedaypracowniktygodnia == 'Mon') {
-        $namedaypracowniktygodnia = "Poniedziałek";
-      }elseif ($namedaypracowniktygodnia == 'Tue') {
-        $namedaypracowniktygodnia = "Wtorek";
-      }elseif ($namedaypracowniktygodnia == 'Wed') {
-        $namedaypracowniktygodnia = "Środa";
-      }elseif ($namedaypracowniktygodnia == 'Thu') {
-        $namedaypracowniktygodnia = "Czwartek";
-      }elseif ($namedaypracowniktygodnia == 'Fri') {
-        $namedaypracowniktygodnia = "Piatek";
-      }elseif ($namedaypracowniktygodnia == 'Sat') {
-        $namedaypracowniktygodnia = "Sobota";
-      }elseif ($namedaypracowniktygodnia == 'Sun') {
-        $namedaypracowniktygodnia = "Niedziela";
-      }
-$week_num = date('W')-1;
-$week_start =  date("d.m", mktime(0,0,0,1,1+($week_num*7)-6,date("Y"))); 
-$week_stop =  date("d.m", mktime(0,0,0,1,(1+($week_num*7)-4)+4,date("Y"))); 
-$pracowniktygodnia = [
-  '1' => ['Katarzyna','Słowińska'],
-  '2' => ['Marta','Skrzypczak'],
-  '3' => ['Angelika','Sobień'],
-];
-
-if ($namedaypracowniktygodnia != "Poniedziałek") {
-?>
-
-<section class="page1">
-        <div id="header" class="delaytext">
-          <div style="color:#d6c58d; font-size:90px; font-family:'Merriweather';text-shadow: 3px 2px 4px rgba(0,0,0,1);margin: 50px auto;">
-              PRACOWNICY TYGODNIA <?php echo ''.$week_start.' - '.$week_stop.''; ?>
-          </div>
-          <?php $licznik_stron++;?>
-    
-          
-    
-    
-          <div style="width:670px; height:700px; margin:0px 0px 0px 100px; float:left;">
-            <div style="background-image:url(img/wysylka.jpg);background-repeat:no-repeat;background-size:cover;background-position: center;  width:500px; height:100%; margin: 0 auto;border:2px solid #d6c58d;">
-            </div>
-          </div>
-    
-                <div style="position:absolute;  right:185px; bottom:500px; background-image:url(img/dziabong.png); background-size: 384px 288px; background-repeat: no-repeat;background-position:center;width:804px; height:288px; margin:auto;">
-                  <div style="color:#d6c58d; font-size:65px; font-family:'Merriweather';text-shadow: 3px 2px 4px rgba(0,0,0,1);"><?php echo $pracowniktygodnia[1][0].'<br>'.$pracowniktygodnia[1][1]; ?> </div>
-                </div>
-    
-    
-                <div style="position:absolute; right:500px; bottom:340px;background-image:url(img/dziabong.png); background-size: 288px 216px; background-repeat: no-repeat;background-position:center;width:804px; height:216px; margin:auto;">
-                  <div style="color:#d6c58d; font-size:50px; font-family:'Merriweather';text-shadow: 3px 2px 4px rgba(0,0,0,1);"><?php echo $pracowniktygodnia[2][0].'<br>'.$pracowniktygodnia[2][1]; ?></div>
-                </div>
-    
-    
-                <div style="position:absolute; right:0px; bottom:300px;background-image:url(img/dziabong.png); background-size: 278px 208px; background-repeat: no-repeat;background-position:center;width:600px; height:208px; margin:auto;">
-                  <div style="color:#d6c58d; font-size:45px; font-family:'Merriweather';text-shadow: 3px 2px 4px rgba(0,0,0,1);"><?php echo $pracowniktygodnia[3][0].'<br>'.$pracowniktygodnia[3][1]; ?></div>
-                </div>
-    
-            
-    
-          <div style="position:absolute; right:255px; bottom:95px; transform:scale(1.30);"><img src="img/podium.png" alt=""></div>
-        </div>
-      
-          </section>
-
-<?php } ?>
-
-
-
-
-
-
-
 <?php
 //$spreadsheet_url3="https://docs.google.com/spreadsheets/d/1QzZONoDCyz7gaSjY78pfDoFxqC3_3Vhgjbclfsqb4bc///pub?gid=1885468185&single=true&output=csv";
 //
