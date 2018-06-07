@@ -1,0 +1,1178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Data",
+				"data2"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fil",
+				"filterrowcsv"
+			],
+			[
+				"ot",
+				"outputcsv"
+			],
+			[
+				"filte",
+				"filterrow"
+			],
+			[
+				"sumim",
+				"sumimport"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"t",
+				"throw	Throw Exception"
+			],
+			[
+				"APP_",
+				"APP_PATH"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"input",
+				"input_user"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"setAl",
+				"setAlertTypes"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"met",
+				"meta	Tag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ext",
+				"extension_loaded"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/crm/sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1354,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Wojtek/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/crm",
+			"settings":
+			{
+				"buffer_size": 890,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/crm/test",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 312.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"pacage Control Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"SYNTAX PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax: sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"perm",
+				"Permute Lines: Unique"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"syntax: css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			",",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/crm"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/crm/sftp-config.json",
+		"/C/Users/Wojtek/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/crm",
+		"/C/xampp/htdocs/CRM-MVC/cds",
+		"/C/xampp/htdocs/CRM-MVC/sftp-config.json",
+		"/C/xampp/htdocs/CRM-MVC/ftpsync.settings",
+		"/C/Users/Wojtek/Desktop/ekrany/2/crm online.sublime-project",
+		"/C/Users/Wojtek/Desktop/ekrany/2/index.php",
+		"/C/xampp/htdocs/CRM-MVC/user/index.php",
+		"/C/Users/Wojtek/Desktop/ekrany/testbadania/index.php",
+		"/C/Users/Wojtek/Desktop/ekrany/test/index.php",
+		"/C/Users/Wojtek/Desktop/ekrany/index.html",
+		"/C/Users/Wojtek/Desktop/sqlgodzinówkachange.sql",
+		"/C/xampp/htdocs/CRM-MVC/user/models/m_auth.php",
+		"/C/xampp/htdocs/CRM-MVC/user/models/m_menu.php",
+		"/C/xampp/htdocs/CRM-MVC/user/1.php",
+		"/C/Users/Wojtek/Desktop/ekrany/1/index.php",
+		"/C/Users/Wojtek/Desktop/startbar.php",
+		"/C/Users/Wojtek/Desktop/start.php",
+		"/C/X-DESIGN Kopia Serwera/verona/potw/ustawienia.php",
+		"/C/X-DESIGN Kopia Serwera/verona/trener/suma2.php",
+		"/C/X-DESIGN Kopia Serwera/verona/trener/suma.php",
+		"/C/X-DESIGN 26.07/verona/potw/frekwencja.php",
+		"/C/xampp/htdocs/baza(Kopia)/views/v_users.php",
+		"/C/xampp/htdocs/baza(Kopia)/login.php",
+		"/C/xampp/htdocs/baza(Kopia)/temp.php",
+		"/C/xampp/htdocs/baza(Kopia)/models/m_auth.php",
+		"/C/xampp/htdocs/baza/views/v_users.php",
+		"/C/xampp/htdocs/baza/users_export.php",
+		"/C/xampp/htdocs/baza/includes/database.php",
+		"/C/xampp/htdocs/dialer/index.html",
+		"/C/X-DESIGN 26.07/verona/trener/dodawanie.php",
+		"/C/Users/Wojtek/Documents/ALL.sublime-project",
+		"/C/X-DESIGN 26.07/verona/potw/kampaniedodawanie.php",
+		"/C/X-DESIGN 26.07/verona/potw/dodawanieprojektu.php",
+		"/C/X-DESIGN 26.07/verona/potw/abonenciimportsend2.php",
+		"/C/X-DESIGN Kopia Serwera/verona/potwierdzenia/pauza.php",
+		"/C/Users/Wojtek/Desktop/Nowy folder (2)/logowanie.php",
+		"/C/Users/Wojtek/Desktop/Nowy folder (2)/start.php",
+		"/C/X-DESIGN Kopia Serwera/verona/potwierdzenia/wydzwanianie.php",
+		"/C/X-DESIGN 26.07/verona/potw/config.php",
+		"/C/Users/Wojtek/Downloads/Świnoujście16.csv",
+		"/C/xampp/htdocs/verona/potwierdzenia/wydzwanianie.php",
+		"/C/Users/Wojtek/Desktop/baza/temp.php",
+		"/C/xampp/htdocs/baza/temp.php",
+		"/C/Users/Wojtek/Desktop/test.php",
+		"/C/Users/Wojtek/Desktop/Kopia Na nowym/ekrany/1/index.php",
+		"/C/Users/Wojtek/Desktop/Kopia Na nowym/ekrany/2/index.php",
+		"/C/Users/Wojtek/Desktop/Kopia Na nowym/config.php",
+		"/C/Users/Wojtek/Desktop/Ekrany/1/index.php",
+		"/C/Users/Wojtek/Desktop/Ekrany/2/index.php",
+		"/C/Users/Wojtek/Desktop/baza/includes/database.php",
+		"/C/Users/Wojtek/Desktop/baza/views/v_users.php",
+		"/C/Users/Wojtek/Desktop/baza/users_export.php",
+		"/C/Users/Wojtek/Desktop/index.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykiprzerwy.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/start.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/sppn_excel.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/sppn_export.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykiprzerwysave.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/sppn.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/cnrn.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/dodawanieklienta.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/editsave.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/dodawanieprojektu.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/kampaniezarzadzaj.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/listy.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/index.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/zalogowani.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/index.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/weryfikacja.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykiprzerwy_export.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/cnrn_excel.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/cnrn_export.php",
+		"/C/xampp/htdocs/baza/views/v_login.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykipracownicysave.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/grafikustalpoprawka.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potwierdzenia/wydzwanianie.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykikampanii_export.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykikampanii.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykipracownicy.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/statystykikampanii_excel.php",
+		"/C/Users/Wojtek/Downloads/przerwy.csv",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/raportdocieralnosciexport.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/raportdocieralnosci.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/kampanieprzydziel.php",
+		"/C/Users/Wojtek/Desktop/Rekordy w kampanii 2016-07-23_01-57-53.csv",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/kampanieprzydziel2.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/kampaniedodawanie.php",
+		"/C/X-DESIGN KOPIA SERWERA 23.07.2016/verona/potw/edit.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/update.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/delete.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/edit.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/dodawanie.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/pracownicydodaj.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/start.php",
+		"/C/xampp/htdocs/ekran/index.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/statystykipracownicysave.php",
+		"/C/Users/Wojtek/Downloads/kampanie(1).csv",
+		"/C/Users/Wojtek/Desktop/kampanienowe3.txt",
+		"/C/Users/Wojtek/Desktop/kampanienowe2.csv",
+		"/C/Users/Wojtek/Desktop/kampanienowe.csv",
+		"/C/Users/Wojtek/Downloads/kampanie.csv",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/raportdocieralnosci.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/grafikustal.php",
+		"/C/xampp/htdocs/baza/users.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/grafikustalpoprawka.php",
+		"/C/xampp/htdocs/ekran/badania/index.php",
+		"/C/xampp/htdocs/ekran/js/jquery.onepage-scroll.js",
+		"/C/Users/Wojtek/Desktop/Grafik/grafikustalpoprawka.php",
+		"/C/Users/Wojtek/Downloads/rekordy.csv",
+		"/C/Users/Wojtek/Downloads/rekordy (1).sql",
+		"/C/xampp/htdocs/baza/users_search.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/statystykipracownicy_export.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/potw/statystykipracownicy_excel.php",
+		"/C/Users/Wojtek/Downloads/rekordy.sql",
+		"/C/xampp/htdocs/ekran/css/style.css",
+		"/C/xampp/htdocs/baza/index.php",
+		"/C/Users/Wojtek/Downloads/initializr-verekia-4.0/initializr/js/main.js",
+		"/C/Users/Wojtek/Downloads/initializr-verekia-4.0.4/initializr/css/main.css",
+		"/C/Users/Wojtek/Downloads/initializr-verekia-4.0/initializr/index.html",
+		"/C/Users/Wojtek/Downloads/initializr-verekia-4.0/initializr/css/main.css",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/admin_potw/stop.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/admin_potw/index.php",
+		"/C/xampp/htdocs/ekran/index.html",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/admin_potw/start.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/admin_potw/copy.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/admin_potw/potw.php",
+		"/C/Users/Wojtek/Desktop/X-DES Białystok/start.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<current file>",
+			"<current file>,<open folders>",
+			"<current file>",
+			"",
+			"E:\\Verona Consulting.pl\\!Baza\\Baza Bisnode",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n",
+			"150, 150, 150, 1",
+			"30px",
+			"background-color:#ffd700;",
+			"30px",
+			"35px",
+			"30px",
+			"150, 150, 150, 1",
+			" background-color:lightyellow;",
+			" background-color:yellow;",
+			"CHANGE `18.08.2016-10` `18.08.2016-10` TEXT CHARACTER SET utf8 COLLATE utf8_general_ci NULL;",
+			"30",
+			"29",
+			"28",
+			"27",
+			"26",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"2116",
+			"20",
+			"19",
+			"ADD",
+			"ALTER",
+			"ALTER TABLE",
+			"<?php\n		$data = date('m.Y');\n		$iledni = date(\"t\", strtotime($data));\n		\n					require_once \"../config.php\";\n				\n					$connect = new mysqli($host,$db_user,$db_password,$db_name);\n			\n					if($connect->connect_errno!=0)\n					{\n						$_SESSION['blad'] = '<div class=\"alert alert-danger\" role=\"alert\">\n						<strong>Błąd!</strong> Wystąpił problem podczas połączenia z bazą danych. Error: '.$connect->connect_errno.'</div>';\n						echo $_SESSION['blad'];\n					}else{\n						mysqli_set_charset($connect,\"utf8\");\n					for( $x3 = 2; $x3 <= 15000; $x3++ )\n					{\n						$oddzial = $_SESSION['oddzial'];\n						$sql = \"SELECT * FROM pracownicy WHERE uprawnienia='6' AND id='$x3'\";\n						if ($rezultat = @$connect->query($sql))\n						{\n							\n							$ilu_userow = $rezultat->num_rows;\n							if($ilu_userow>0)\n							{\n								$wiersz = $rezultat->fetch_assoc();\n								$oddzialk = $wiersz['oddzial'];\n								$oddzialm = $_SESSION['oddzial'];\n								$imie = $wiersz['imie'];\n								$nazwisko = $wiersz['nazwisko'];\n								$stawka = $wiersz['stawka'];\n								$idg = $wiersz['id'];\n								\n								if($oddzialm==$oddzialk)\n								{\n									for( $x = 1; $x <= $iledni; $x++ )\n									{\n										if($x>9)\n										{\n											$x1 = $x;\n										}else{\n											$x1 = '0'.$x;\n										}\n										\n										$sql = \"SELECT * FROM `$data` WHERE id='$idg'\";\n											if ($rezultat = @$connect->query($sql))\n												{\n													$ilu_userow = $rezultat->num_rows;\n													if($ilu_userow>0)\n													{\n														$wiersz = $rezultat->fetch_assoc();\n														$roznica = $wiersz[$x1.'.'.$data.'-10'];\n														$suma = $suma + $roznica;\n													}\n												}\n									}\n									$min = floor($suma / 60);\n									$sec = $suma-($min*60);\n									$h = floor($min/60);\n									$min = $min-($h*60);\n									$suma2 = \"$h h $min min\";\n									echo '<tr>';\n									echo '<td>'.$imie.' '.$nazwisko.'</td>';\n									echo '<td>'.$suma2.'</td>';\n									echo '<td>'.$stawka.' zł</td>';\n									echo '</tr>';\n									\n								}\n							}\n						}\n						$suma = '0';\n					}\n					}\n		?>",
+			"date",
+			",",
+			"`",
+			",",
+			"',",
+			",",
+			"error.php",
+			"startprzerwa",
+			"kampanian",
+			"tryb",
+			"root",
+			"dzienprzerwy",
+			"d.m.Y",
+			"d.m.Y'",
+			"Y.m.d",
+			"UPDATE",
+			"d.m.Y",
+			"2016",
+			"						echo '<option>'.$x5.'.'.$datemies.'.'.$daterok.'</option>';\n",
+			"					echo '<option><b>'.$datedzien.'.'.$datemies.'.'.$daterok.'</b></option>';\n",
+			";",
+			"projektgrafik",
+			"dzienprzydziel",
+			"dziengrafik",
+			"kampanieprzydziel2",
+			"projektgrafik",
+			"dziengrafik",
+			"date",
+			",1,",
+			",0,",
+			"\"b\"",
+			"\"w\"",
+			"2016",
+			"2015",
+			"\"b\"",
+			"\"w\"",
+			"2016",
+			"Veneda",
+			"			unset($imie);\n",
+			"*",
+			"$_SESSION['sumimport']",
+			"background-color:",
+			"width:19%",
+			"num",
+			"movedown",
+			"modedown",
+			"bind",
+			"moveDown",
+			"init_scroll",
+			"ModeDown",
+			"el",
+			"moveDown",
+			"animationTime",
+			"scroll",
+			"transformPage(settings, pos, init_index);",
+			"main",
+			"$select",
+			"30000",
+			"'';",
+			"SESSION",
+			"</th>",
+			"\">\n",
+			"users.php",
+			"sumimport2",
+			"sumimport",
+			" $",
+			"for ",
+			"Znalezionych",
+			"licznik",
+			"Merriweather",
+			"18px",
+			"10px",
+			"16px",
+			"25px",
+			"16px",
+			"50px",
+			"20%",
+			"<td style=\"border:2px solid #d6c58d;\">",
+			"red",
+			"backgrou",
+			"//",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, vero.\n",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, vero.",
+			"        <p id=\"demo\" class=\"jakaś_klasa\" onclick=\"mojaFunkcja()\">JavaScript</p>\n",
+			"\">\n",
+			"../",
+			"styleindex",
+			"Select ",
+			"licznik",
+			"$wynik",
+			"e35839",
+			"                                            <td>'.$filterrow[''].'</td>\n",
+			"                            <button type=\"submit\" class=\"btn btn-primary\" style=\"width:100%;\">Wykonaj</button>\n",
+			"Select",
+			"'>\n",
+			"load_block",
+			"js",
+			"https://hq.webdev.pl/",
+			"='5'",
+			"pracownicy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			";",
+			",",
+			";",
+			"<div class=\"icon\">$1</div>",
+			"<div class=\"icon\">(.*)</div>",
+			"div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/crm/sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										584,
+										585
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										569,
+										570
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Wojtek/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/crm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										381,
+										382
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										379,
+										380
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"incomplete_sync": null,
+							"sftp_new_server": null,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/crm/test",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 521.0
+	},
+	"pinned_build_system": "",
+	"project": "crm online.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"initializr\\index.html"
+			],
+			[
+				"v",
+				"APP\\CORE\\VIEWS\\v_login.php"
+			],
+			[
+				"logi",
+				"APP\\login.php"
+			],
+			[
+				"core",
+				"APP\\CORE\\core.php"
+			],
+			[
+				"co",
+				"APP\\CORE\\core.php"
+			],
+			[
+				"l",
+				"login.php"
+			],
+			[
+				"tem",
+				"temp.php"
+			],
+			[
+				"m",
+				"models\\m_auth.php"
+			],
+			[
+				"log",
+				"login.php"
+			],
+			[
+				"m_te",
+				"models\\m_template.php"
+			],
+			[
+				"lo",
+				"login.php"
+			],
+			[
+				"strefa",
+				"materialy_do_kursu\\5\\5_4\\strefawp.sublime-project"
+			],
+			[
+				"zwi",
+				"materialy_do_kursu\\5\\5_4\\zwijanie_kodu.html"
+			],
+			[
+				"so",
+				"materialy_do_kursu\\5\\5_3\\sortowanie.html"
+			],
+			[
+				"li",
+				"materialy_do_kursu\\5\\5_2\\linie.html"
+			],
+			[
+				"linie",
+				"materialy_do_kursu\\5\\5_2\\linie.html"
+			],
+			[
+				"wyraz",
+				"materialy_do_kursu\\5\\5_1\\wyrazenia_reg.html"
+			],
+			[
+				"m_a",
+				"models\\m_auth.php"
+			],
+			[
+				"in",
+				"includes\\init.php"
+			],
+			[
+				"da",
+				"includes\\database.php"
+			],
+			[
+				"v_",
+				"views\\v_login.php"
+			],
+			[
+				"m_tem",
+				"sk_cms_szkolenie\\models\\m_template.php"
+			],
+			[
+				"temp",
+				"sk_cms_szkolenie\\temp.php"
+			],
+			[
+				"index",
+				"sk_cms\\sk_cms\\index.php"
+			],
+			[
+				"wyszuki",
+				"materialy_do_kursu\\2\\2_6\\wyszukiwanie.html"
+			],
+			[
+				"index.html",
+				"materialy_do_kursu\\2\\2_5\\index.html"
+			],
+			[
+				"footer.php",
+				"materialy_do_kursu\\2\\2_2\\strefawp\\footer.php"
+			],
+			[
+				"wydzwa",
+				"Verona CRM v2\\potwierdzenia\\wydzwanianie.php"
+			],
+			[
+				"index.p",
+				"start\\index.php"
+			],
+			[
+				"custom.js",
+				"materialy_do_kursu\\2\\2_2\\strefawp\\js\\custom.js"
+			],
+			[
+				"style.css",
+				"materialy_do_kursu\\2\\2_2\\strefawp\\style.css"
+			],
+			[
+				"single",
+				"materialy_do_kursu\\2\\2_2\\strefawp\\single.php"
+			],
+			[
+				"animate",
+				"materialy_do_kursu\\7\\7_3\\strefawp\\css\\animate.css"
+			],
+			[
+				"wydzwanianie",
+				"Verona CRM v2\\potwierdzenia\\wydzwanianie.php"
+			],
+			[
+				"index.",
+				"start\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
