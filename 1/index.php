@@ -363,7 +363,7 @@
 
     <?php 
 
-$url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQnV5i5CtcaGkYfCnCZBzCQRSzk7DTfcQZVcq-BuPG4Bu0SaAfNCQULcnKSAw3OdE89UhP0bvqyTwwg/pub?gid=1460726727&single=true&output=csv";    
+$url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTyYnDrO0CVMhmbkDIhbDbYxRAqQKH9aUupJ4VH4A2BtxzJqLwvlIDzbovAYe0dwGxl_kLOS5B5jyHM/pub?gid=1460726727&single=true&output=csv";
     $spreadsheet_url= $url;
 
 if(!ini_set('default_socket_timeout', 15)) echo "<!-- unable to change socket timeout -->";
